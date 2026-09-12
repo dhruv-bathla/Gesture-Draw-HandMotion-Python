@@ -1,7 +1,7 @@
 
 
 # ✋ Hand Tracking Virtual Paint 🎨  
-### *Made by [abhayautiyal.dev](https://abhaynautiyaldev.netlify.app)*
+### *Made by DHRUV BATHLA
 
 This project transforms hand gestures into a virtual painting tool! Using OpenCV, MediaPipe, and Python, you can draw, erase, and choose colors on-screen—all with simple hand movements in front of a webcam.
 
